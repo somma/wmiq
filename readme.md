@@ -2,6 +2,8 @@
 
 You can use this tool to query WMI using raw SQL form.
 
+# usage
+
 	c:\>wmiq "select * from win32_bios"
 	[     Handy WMI query tool     ]
 	                        by somma
