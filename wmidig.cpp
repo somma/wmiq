@@ -22,7 +22,7 @@ int _tmain(int argc, _TCHAR* argv[])
     if (argc != 2)
     {
         log_err "> usage: %ws \"wmi query\"", argv[0] log_end;
-        log_err "ex) %ws \"Select * from WIN32_PROCESSOR\"", argv[0] log_end;
+        log_err "ex) %ws \"select * from win32_bios\"", argv[0] log_end;
         return -1;
         
     }
