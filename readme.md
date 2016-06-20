@@ -57,9 +57,9 @@ You can use this tool to query WMI using raw SQL form.
 
 
 
-c:\work.wmiq\out\x86_debug>
-c:\work.wmiq\out\x86_debug>
+
 
 # ref
 + [WMI/MI/OMI Providers](https://msdn.microsoft.com/en-us/library/bg126473(v=vs.85).aspx)
 + [WMI Using C++](http://serious-code.net/doku/doku.php?id=kb:wmiusingcpp)
++ [WMI Explorer](https://wmie.codeplex.com/)
